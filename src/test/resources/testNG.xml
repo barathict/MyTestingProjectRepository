@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="MyTestSeleniumProjectsuit" verbose="1" parallel="tests" thread-count="2">
+    <test name="MyTestSeleniumProjecttest">
+        <classes>
+            <class name="com.MyTestSeleniumProject.testclass.TestdummyClass"/>
+            <class name="com.MyTestSeleniumProject.testclass.Testdummyclass1"/>
+        </classes>
+    </test>
+</suite>

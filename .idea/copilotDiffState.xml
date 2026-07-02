@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CopilotDiffPersistence">
+    <option name="pendingDiffs">
+      <map>
+        <entry key="$PROJECT_DIR$/src/main/resources/config.properties">
+          <value>
+            <PendingDiffInfo>
+              <option name="filePath" value="$PROJECT_DIR$/src/main/resources/config.properties" />
+              <option name="originalContent" value="#ApplicationURL&#10;URL = https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&#10;#Browser details&#10;browser = chrome&#10;##Login Credentials&#10;username = Admin&#10;password = admin123&#10;##Timeouts(in seconds)&#10;pageLoadTimeout = 20&#10;implicitWait = 10" />
+              <option name="updatedContent" value="#ApplicationURL&#10;URL = https://opensource-demo.orangehrmlive.com/web/index.php/auth/login&#10;#Browser details&#10;browserName = chrome&#10;##Login Credentials&#10;username = Admin&#10;password = admin123&#10;##Timeouts(in seconds)&#10;pageLoadTimeout = 20&#10;implicitWait = 10" />
+            </PendingDiffInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

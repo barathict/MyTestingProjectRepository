@@ -1,0 +1,40 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="MavenModelInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="VulnerableLibrariesLocal" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="isIgnoringEnabled" value="true" />
+      <option name="ignoredModules">
+        <list>
+          <option value="MyTestSeleniumProject" />
+          <option value="MyTestSeleniumProject" />
+          <option value="MyTestSeleniumProject" />
+          <option value="MyTestSeleniumProject" />
+          <option value="MyTestSeleniumProject" />
+          <option value="MyTestSeleniumProject" />
+        </list>
+      </option>
+      <option name="ignoredPackages">
+        <list>
+          <option value="org.mozilla:rhino:1.7.7.2" />
+          <option value="com.fasterxml.jackson.core:jackson-core:2.20.1" />
+          <option value="org.apache.logging.log4j:log4j-core:2.23.1" />
+          <option value="org.apache.poi:poi-ooxml:5.2.5" />
+          <option value="commons-beanutils:commons-beanutils:1.9.4" />
+          <option value="org.apache.commons:commons-lang3:3.13.0" />
+        </list>
+      </option>
+      <option name="ignoredReasons">
+        <list>
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+          <option value="Not exploitable" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="XmlUnresolvedReference" enabled="true" level="INFORMATION" enabled_by_default="true" />
+  </profile>
+</component>
