@@ -1,7 +1,7 @@
 pipeline {
     agnet any
     tools {
-       Maven 'Maven 3.6.3'
+       Maven '3.9.15'
        jdk 'JDK 11'
 }
 Stages {
